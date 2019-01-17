@@ -4,6 +4,11 @@
       "title": "Stream your first test videos here",
       "description": "The contents in this channel will be cleared every week",
       "id": 1
+    },
+    {
+      "title": "English Movies",
+      "description": "Watch english blockbuster movies in this stream/channel",
+      "id": 2
     }
   ]
 }
