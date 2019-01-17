@@ -19,8 +19,9 @@ class GoogleAuth extends Component {
     }
 
     onAuthChange = (isSignedIn) => {
+        //console.log(userthis.auth.currentUser.get().getId())
         if (isSignedIn) {
-            this.props.signIn();
+            this.props.signIn(this.auth.currentUser.get().getId());
         } else {
             this.props.signOut();
         }
