@@ -9,6 +9,12 @@
       "title": "English Movies",
       "description": "Watch english blockbuster movies in this stream/channel",
       "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream was created by me",
+      "userId": "118145667225148454240",
+      "id": 3
     }
   ]
 }
