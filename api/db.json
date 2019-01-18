@@ -15,17 +15,6 @@
       "description": "This stream was created by me",
       "userId": "118145667225148454240",
       "id": 3
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "Country roads take me home.  This was edited by PATCH request",
-      "userId": "118145667225148454240",
-      "id": 4
-    },
-    {
-      "title": "Test and Delete. Check if you can see the edit and delete button",
-      "description": "Delete this if you want after testing edit this",
-      "id": 5
     }
   ]
 }
