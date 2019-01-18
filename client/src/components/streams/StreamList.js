@@ -42,7 +42,9 @@ class StreamList extends Component {
                     {this.showHideAdminControls(stream)}
                     <i className="large middle aligned icon camera" />
                     <div className="content">
-                        {stream.title}
+                        <Link to={`/streams/${stream.id}`} className="header">
+                            {stream.title}
+                        </Link>
                     </div>
                     <div className="description">{stream.description}</div>
                 </div>
