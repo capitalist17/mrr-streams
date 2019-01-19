@@ -1,0 +1,5 @@
+The servers need to be started in the order stated for the application to work
+
+In the client folder run - npm start
+In the api folder run - npm start
+In the rtmpserver folder run - npm start
