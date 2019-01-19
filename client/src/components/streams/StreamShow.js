@@ -1,3 +1,8 @@
+/* If you have trouble installing the OBS software or to stream from OBS -user ffmpeg software:
+   After installing FFmpeg, run the command like below. (Udemy chapter - 289-it works)
+    C:\Users\Public\Videos>ffmpeg -re -i TBUT.mp4 -c copy -f flv rtmp://localhost/live/2
+*/
+
 import React, { Component } from 'react';
 import flv from 'flv.js'
 import { connect } from 'react-redux';
